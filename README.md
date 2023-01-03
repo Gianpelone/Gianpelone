@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gianpelone
-- 👀 I’m interested in a front-end developer carrier
-- 🌱 I’m currently learning JavaScript and TypeScript, HTML, CSS 
+- 👀 I’m interested in a COBOL developer carrier
+- 🌱 I’m currently learning COBOL language
 - 📫 How to reach me giancarlopelone91@gmail.com
 
 <!---
